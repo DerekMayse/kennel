@@ -1,0 +1,27 @@
+{
+    "animals": [
+        { "id": 1, "name": "Doodles", "breed": "Poodle"},
+        { "id": 2, "name": "Decker", "breed": "German Sheperd" },
+        { "id": 3, "name": "Esme", "breed": "Pitbull" }
+    ],
+
+
+
+    "employees": [
+        {"id":1, "name": "JSON Doe", "phonenumber":"666-666" },
+        {"id":2, "name": "Mike Hunt", "phonenumber": "867-5309"},
+        {"id":3, "name": "I.C. Weiner", "phonenumber": "605-475-6961" }
+    ],
+    
+    "locations":[
+        {"id":1, "name": "New New York City, New New York"},
+        {"id":2, "name": "Springfield, ????"},
+        {"id":3, "name": "Quahog, Rhode Island"}
+    ], 
+    
+    "owners":[
+        {"id":1, "name":"Arty Fischel"},
+        {"id":2, "name": "Ben Dover"},
+        {"id":3, "name": "Heywood U. Cuddleme"}
+    ]
+}

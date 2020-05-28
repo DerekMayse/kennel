@@ -6,8 +6,8 @@ class LocationCard extends Component {
       <div className="card">
         <div className="card-content">
           
-          <h3>Location: <span className="card-petname">Git HELL</span></h3>
-          
+    <h3>Location: </h3>
+        <p>{this.props.location.name}</p>  
         </div>
       </div>
     );
